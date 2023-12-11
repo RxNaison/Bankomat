@@ -1,0 +1,8 @@
+﻿  Account.cpp
+C:\Users\nata\source\repos\Bankomat\Bankomat\Account.cpp(6,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Banc.cpp
+  Bankomat.cpp
+  Client.cpp
+  Menu.cpp
+  Создание кода...
+  Bankomat.vcxproj -> C:\Users\nata\source\repos\Bankomat\x64\Debug\Bankomat.exe
